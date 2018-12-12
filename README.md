@@ -1,2 +1,0 @@
-# TipManager
-a label show
