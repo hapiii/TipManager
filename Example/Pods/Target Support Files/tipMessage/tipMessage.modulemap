@@ -1,0 +1,6 @@
+framework module tipMessage {
+  umbrella header "tipMessage-umbrella.h"
+
+  export *
+  module * { export * }
+}

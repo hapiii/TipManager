@@ -1,0 +1,16 @@
+PODS:
+  - tipMessage (0.1.0)
+
+DEPENDENCIES:
+  - tipMessage (from `../`)
+
+EXTERNAL SOURCES:
+  tipMessage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  tipMessage: a68511b9b8bb580848656d8292d6adaf1fd4edf3
+
+PODFILE CHECKSUM: 7c9a9e4e1972d225fc49ce4a124c85b07a1c8466
+
+COCOAPODS: 1.5.3

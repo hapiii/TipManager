@@ -1,0 +1,22 @@
+{
+  "name": "tipMessage",
+  "version": "0.1.0",
+  "summary": "A short description of tipMessage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hapiii/tipMessage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hapiii": "869932084@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hapiii/tipMessage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "tipMessage/Classes/**/*"
+}

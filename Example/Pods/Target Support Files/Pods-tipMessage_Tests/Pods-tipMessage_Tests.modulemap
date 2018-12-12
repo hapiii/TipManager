@@ -1,0 +1,6 @@
+framework module Pods_tipMessage_Tests {
+  umbrella header "Pods-tipMessage_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
