@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'tipMessage_Example' do
+  pod 'tipMessage', :path => '../'
+
+  target 'tipMessage_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
